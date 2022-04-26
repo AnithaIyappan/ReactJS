@@ -1,0 +1,12 @@
+.head1{
+    text-align: center;
+    color: rgb(171, 44, 66);
+}
+.para1{
+    color: blue;
+    font-size: 20px;
+}
+ul{
+    color: orangered;
+    list-style: none;
+}

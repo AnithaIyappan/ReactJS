@@ -1,0 +1,51 @@
+
+    .form{
+        text-align: center;
+    }
+    
+    .label{
+    display: block;
+    font-size: larger;
+    color: red;
+    padding: 5px;
+    margin-right: 130px;
+    }
+    
+    .input{
+    font-size: larger;
+    padding: 9px;
+    margin: 2px;
+    border: none;
+    
+    }
+    .btn{
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    font-size: larger;
+    display: block;
+    padding: 5px;
+    margin: 10px auto;
+    }
+    
+    .messages{
+    display: flex;
+    justify-content: center;
+    }
+    
+    .error{
+    display: block;
+    color: red;
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+    }
+    
+    .success{
+    display: block;
+    color: rgb(15, 160, 114);
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+    }
+    
